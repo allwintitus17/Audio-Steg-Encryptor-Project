@@ -1,0 +1,8 @@
+# Audio Cryptography & Steganography Software
+# Pure Python & Tkinter Edition (Zero pip dependencies required)
+
+# The software runs directly with Python's standard library and pure Tkinter.
+# No external packages, pygame, or build tools are required!
+
+# (Optional) If you want hardware-accelerated AES-256-GCM, you can install:
+# cryptography>=41.0.0
